@@ -24,3 +24,6 @@ This project is console level project based on DSA concepts and java core fundam
   11. Check progress in percentage
   12. Categorize the task on the basis of a category (returns a new To do List)
   13. Categorize the task on the basis of completion or not (returns a new To Do List)
+
+## Next I want to add features : 
+  1. Add subtasks and its features
